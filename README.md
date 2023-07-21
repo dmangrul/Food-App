@@ -1,1 +1,2 @@
 # Food-App
+This application is a React Native project: an application that retrieves restaurant data from the Yelp database and displays information about restaurants in the area. This React Native program displays restaurant data onto an interactive mobile application on the Expo Go application on iOS in which the user inputs cuisines, restaurants, or locations. Axios is the method of API Calls to the Yelp Developer database, and This project contains different languages and frameworks such as JavaScript, React Native, and State.
